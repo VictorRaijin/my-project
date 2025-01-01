@@ -11,3 +11,4 @@
 2. Replace contract address, private key, Hugging Face token in `server.js`.
 3. Run server: `node server.js`
 4. Open `index.html` in browser and test.
+sdfsd
