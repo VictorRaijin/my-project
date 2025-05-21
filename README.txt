@@ -11,4 +11,9 @@
 2. Replace contract address, private key, Hugging Face token in `server.js`.
 3. Run server: `node server.js`
 4. Open `index.html` in browser and test.
-s
+sdfsdsfdsf
+
+
+git remote add origin https://github.com/VictorRaijin/your-repo.git
+git branch -M main
+git push -u origin main
